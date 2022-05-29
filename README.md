@@ -22,7 +22,7 @@ Recommended [README-TEMPLATE ](https://github.com/Ritakang0451/README-TEMPLATE)
 
 ## Comliance Regulation
 
-## [Operating Manual](https://github.com/Ritakang0451/Open-source-governance/tree/main/Operating%20Manual)
+## [Operating Manual](https://github.com/Ritakang0451/OPEN-SOURCE-GOVERNANCE-SYSTEM/tree/main/Operating%20Manual)
 ### [ Data Analysis](https://github.com/Ritakang0451/Open-source-governance/tree/main/Operating%20Manual/Data%20Analysis)
 
 #### Tool

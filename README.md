@@ -23,6 +23,8 @@ Recommended [README-TEMPLATE ](https://github.com/Ritakang0451/README-TEMPLATE)
 ## Comliance Regulation
 
 ## [Operating Manual](https://github.com/Ritakang0451/OPEN-SOURCE-GOVERNANCE-SYSTEM/tree/main/Operating%20Manual)
+### How to Get involved in Open Source 
+#### [Organizational System & Role Definition](https://github.com/Ritakang0451/OPEN-SOURCE-GOVERNANCE-SYSTEM/blob/main/Operating%20Manual/How%20to%20Get%20involved%20in%20Open%20Source/Organizational%20System%20%26%20Role%20Definition.md)
 ### [ Data Analysis](https://github.com/Ritakang0451/Open-source-governance/tree/main/Operating%20Manual/Data%20Analysis)
 
 #### Tool

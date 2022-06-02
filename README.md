@@ -31,3 +31,7 @@ Recommended [README-TEMPLATE ](https://github.com/Ritakang0451/README-TEMPLATE)
 
 [repo index analysis]( https://vesoft-inc.github.io/github-statistics/)  
 
+
+## Reference&Learning Materials
+[notion note](https://www.notion.so/ritakang/reference-1c1fbceede8f447d832ecd910c2a0e01) 
+ 

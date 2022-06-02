@@ -31,10 +31,3 @@ Recommended [README-TEMPLATE ](https://github.com/Ritakang0451/README-TEMPLATE)
 
 [repo index analysis]( https://vesoft-inc.github.io/github-statistics/)  
 
-
-## Reference&Learning Materials
-[Theoretical Basis of Open Source -Open Atoms Foundation ](https://gitee.com/openatom-university/osstheory-fundamental/wikis/1.0%20%E5%89%8D%E8%A8%80?sort_id=4107683) 
-
-[Open Atom summit 2020](https://segmentfault.com/area/openatomcon-2020)
-
-[Open Source Refers to The North](https://oschina.gitee.io/opensource-guide/guide/)

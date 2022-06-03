@@ -35,7 +35,7 @@
 撰写或更新文档
 翻译
 
-![image.png](https://s2.loli.net/2022/05/29/pq2tcvo6Jke9gRQ.png)
+<img src="https://s2.loli.net/2022/05/29/pq2tcvo6Jke9gRQ.png" height="500"/>
 
 另外，在当前主流的开源社区治理组织架构体系中，我们一般还包含 Committer/PMC 等不同角色。
 

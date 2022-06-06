@@ -21,7 +21,7 @@ Recommended [README-TEMPLATE ](https://github.com/Ritakang0451/README-TEMPLATE)
 ## Comliance Regulation
 ## Regulations
 ###   license
-[CN_usual license_](https://github.com/Ritakang0451/OPEN-SOURCE-GOVERNANCE-SYSTEM/blob/main/COMLIANCE%20REGULATION/GENERAL%20PUBLIC%20LICENSE.ma)
+[CN_usual license_](https://zhuanlan.zhihu.com/p/340135415)
 
 [more](https://opensource.org/licenses/category)
 

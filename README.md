@@ -15,12 +15,15 @@ Recommended [README-TEMPLATE ](https://github.com/Ritakang0451/README-TEMPLATE)
 
 #### Project Documents
 
-文档的重要性
-
 产品文档的基本框架
 
 
 ## Comliance Regulation
+## Regulations
+###   license
+[CN_usual license_](https://github.com/Ritakang0451/OPEN-SOURCE-GOVERNANCE-SYSTEM/blob/main/COMLIANCE%20REGULATION/GENERAL%20PUBLIC%20LICENSE.ma)
+
+[more](https://opensource.org/licenses/category)
 
 ## [Operating Manual](https://github.com/Ritakang0451/OPEN-SOURCE-GOVERNANCE-SYSTEM/tree/main/Operating%20Manual)
 ### How to Get involved in Open Source 

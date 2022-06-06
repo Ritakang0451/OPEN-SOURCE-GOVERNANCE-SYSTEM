@@ -21,7 +21,9 @@ Recommended [README-TEMPLATE ](https://github.com/Ritakang0451/README-TEMPLATE)
 ## Comliance Regulation
 ## Regulations
 ###   license
-[CN_usual license_](https://zhuanlan.zhihu.com/p/340135415)
+[usual license_CN](https://zhuanlan.zhihu.com/p/340135415)
+
+[It was never an open source license that stopped you from cashing in_CN](https://mp.weixin.qq.com/s?src=11&timestamp=1654496602&ver=3843&signature=VL4BpCxNby3BLGOMqaX03KhvMbZ47DI-NamHHzHhbYJATVgfUNDI2FhcIfOrJpNIFf4Wp-tSb2eec0yaS-vufFrbXB1w-NlGGD3S6nkMwtpOFfmwERYjA9cWNBa1fSFu&new=1)
 
 [more](https://opensource.org/licenses/category)
 

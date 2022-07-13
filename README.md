@@ -1,4 +1,5 @@
 # OPEN-SOURCE-GOVERNANCE-SYSTEM
+[![Page Views Count](https://badges.toozhao.com/badges/01G7TRNN1PH9PMSCYWDF3EK4QT/green.svg)](https://badges.toozhao.com/stats/01G7TRNN1PH9PMSCYWDF3EK4QT "Get your own page views count badge on badges.toozhao.com")
 
 This repo is mainly for personal learning & summary, if there are clerical errors, please correct them.
 

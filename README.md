@@ -1,5 +1,7 @@
 # OPEN-SOURCE-GOVERNANCE-SYSTEM
-[![Page Views Count](https://badges.toozhao.com/badges/01G7TRNN1PH9PMSCYWDF3EK4QT/green.svg)](https://badges.toozhao.com/stats/01G7TRNN1PH9PMSCYWDF3EK4QT "Get your own page views count badge on badges.toozhao.com")
+
+[![Page Views Count](https://badges.toozhao.com/badges/01G8A8J1NW6D6PRGW0EQBEWHJ3/green.svg)](https://badges.toozhao.com/stats/01G8A8J1NW6D6PRGW0EQBEWHJ3 "Get your own page views count badge on badges.toozhao.com")
+
 
 This repo is mainly for personal learning & summary, if there are clerical errors, please correct them.
 
@@ -21,7 +23,13 @@ Recommended [README-TEMPLATE ](https://github.com/Ritakang0451/README-TEMPLATE)
 
 ## Comliance Regulation
 ## Regulations
+
+###   basic words 
+
+[To talk about or to apply?  | Open Source rules in a few basic words 为谈资还是为学以致用？|开源规则中几个常见词汇解析](https://mp.weixin.qq.com/s/3U6KEal80bXE77v9SJaf9Q)
+
 ###   license
+
 [usual license_CN](https://zhuanlan.zhihu.com/p/340135415)
 
 [It was never an open source license that stopped you from cashing in_CN](https://mp.weixin.qq.com/s?src=11&timestamp=1654496602&ver=3843&signature=VL4BpCxNby3BLGOMqaX03KhvMbZ47DI-NamHHzHhbYJATVgfUNDI2FhcIfOrJpNIFf4Wp-tSb2eec0yaS-vufFrbXB1w-NlGGD3S6nkMwtpOFfmwERYjA9cWNBa1fSFu&new=1)

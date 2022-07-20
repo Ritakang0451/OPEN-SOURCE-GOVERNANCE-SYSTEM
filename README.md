@@ -21,12 +21,12 @@ Recommended [README-TEMPLATE ](https://github.com/Ritakang0451/README-TEMPLATE)
 产品文档的基本框架
 
 
-## Comliance Regulation
+## Compliance Regulation
 ## Regulations
 
 ###   basic words 
 
-[To talk about or to apply?  | Open Source rules in a few basic words 为谈资还是为学以致用？|开源规则中几个常见词汇解析](https://mp.weixin.qq.com/s/3U6KEal80bXE77v9SJaf9Q)
+[To talk about or to apply?  | Open Source rules in a few basic words  开源规则中几个常见词汇解析](https://mp.weixin.qq.com/s/3U6KEal80bXE77v9SJaf9Q)
 
 ###   license
 
@@ -35,6 +35,10 @@ Recommended [README-TEMPLATE ](https://github.com/Ritakang0451/README-TEMPLATE)
 [It was never an open source license that stopped you from cashing in_CN](https://mp.weixin.qq.com/s?src=11&timestamp=1654496602&ver=3843&signature=VL4BpCxNby3BLGOMqaX03KhvMbZ47DI-NamHHzHhbYJATVgfUNDI2FhcIfOrJpNIFf4Wp-tSb2eec0yaS-vufFrbXB1w-NlGGD3S6nkMwtpOFfmwERYjA9cWNBa1fSFu&new=1)
 
 [more](https://opensource.org/licenses/category)
+
+##    OS Supply Chain Management
+
+https://www.infoq.cn/article/6jm3rPVwybGMbJl358Fx
 
 ## [Operating Manual](https://github.com/Ritakang0451/OPEN-SOURCE-GOVERNANCE-SYSTEM/tree/main/Operating%20Manual)
 ### How to Get involved in Open Source 
